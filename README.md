@@ -39,6 +39,7 @@ IntelliJ IDEA (Development)
 Postman (API testing)
 
 🔗 Repositories
-Frontend: Tasty Tiffins Android App
 
-Backend: Tasty Tiffins Backend
+Frontend: [Tasty Tiffins Android App](https://github.com/ameydraut/TastyTiffins)
+
+Backend: [Tasty Tiffins Backend](https://github.com/ameydraut/TiffinserviceServer)
